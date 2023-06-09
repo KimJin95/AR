@@ -1858,8 +1858,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95a2c036a8b160f4ca87fa8b71764536, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carChangeMat: {fileID: 0}
-  colorPanel: {fileID: 0}
+  carChangeMat: {fileID: 2100000, guid: 9d91fa67f1da70b4c9f752d9f22726a2, type: 2}
+  colorPanel: {fileID: 2063233003129757967}
 --- !u!1 &1640622392273108
 GameObject:
   m_ObjectHideFlags: 0
