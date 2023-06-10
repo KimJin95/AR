@@ -71,8 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-AR/*
-!AR/Assets
-AR/Assets*
-!AR/Assets/Scripts
+C:\Users\316-13\Documents\GitHub\AR/*
+!C:\Users\316-13\Documents\GitHub\AR/Assets
+C:\Users\316-13\Documents\GitHub\AR/Assets*
+!C:\Users\316-13\Documents\GitHub\AR/Assets/Scripts
 
